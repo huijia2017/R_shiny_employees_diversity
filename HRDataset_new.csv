@@ -1,0 +1,116 @@
+employee_Name,perfScoreID,position,sex,maritaldesc,racedesc,Department,recruitmentsource,,empsatisfaction
+"McKinzie, Jac",3,Area Sales Manager,M ,Married,Two or more races,Sales,Website Banner Ads,,3
+"Singh, Nan ",3,Administrative Assistant,F,Single,White,Admin Offices,Website Banner Ads,,3
+"Lydon, Allison",3,Production Technician I,F,Married,Black or African American,Production       ,Website Banner Ads,,4
+"Ozark, Travis",3,Area Sales Manager,M ,Single,White,Sales,Website Banner Ads,,5
+Jeremy Prater,1,Area Sales Manager,M ,Married,White,Sales,Website Banner Ads,,5
+"LaRotonda, William  ",3,Accountant I,M ,Divorced,Black or African American,Admin Offices,Website Banner Ads,,1
+"Rose, Ashley  ",3,Production Technician I,F,Separated,White,Production       ,Website Banner Ads,,5
+"Liebig, Ketsia",4,Production Manager,F,Married,White,Production       ,Website Banner Ads,,5
+"Carr, Claudia  N",3,Sr. DBA,F,Single,Black or African American,IT/IS,Vendor Referral,,4
+"Hunts, Julissa",3,Production Technician II,F,Single,White,Production       ,Vendor Referral,,3
+"Manchester, Robyn",3,Production Technician II,F,Married,White,Production       ,Vendor Referral,,5
+"Merlos, Carlos",1,Network Engineer,M ,Single,White,IT/IS,Vendor Referral,,3
+"Salter, Jason",3,Data Analyst ,M ,Divorced,Black or African American,IT/IS,Vendor Referral,,3
+"Roehrich, Bianca",3,Principal Data Architect,F,Single,White,IT/IS,Vendor Referral,,5
+"Andreola, Colby",3,Software Engineer,F,Single,White,Software Engineering,Vendor Referral,,4
+"Daniele, Ann  ",3,Sr. Network Engineer,F,Married,White,IT/IS,Vendor Referral,,3
+"Shepard, Anita ",3,Network Engineer,F,Married,White,IT/IS,Vendor Referral,,4
+"Woodson, Jason",3,Production Technician II,M ,Single,White,Production       ,Vendor Referral,,5
+"Favis, Donald  ",3,Enterprise Architect,M ,Single,Black or African American,IT/IS,Vendor Referral,,5
+"Chace, Beatrice ",3,Production Technician I,F,Single,White,Production       ,Search Engine - Google Bing Yahoo,,3
+"Dunn, Amy  ",3,Production Manager,F,Single,White,Production       ,Search Engine - Google Bing Yahoo,,5
+"Becker, Renee",3,Database Administrator,F,Single,White,IT/IS,Search Engine - Google Bing Yahoo,,2
+"Martin, Sandra",3,Software Engineer,F,Single,Asian,Software Engineering,Search Engine - Google Bing Yahoo,,5
+"Champaigne, Brian",3,BI Director,M ,Married,White,IT/IS,Professional Society,,5
+"Fernandes, Nilson  ",1,Production Technician I,M ,Married,White,Production       ,Professional Society,,4
+"Gentry, Mildred",3,Production Technician I,F,Married,Black or African American,Production       ,Professional Society,,5
+"Girifalco, Evelyn",4,Production Technician I,F,Single,Two or more races,Production       ,Professional Society,,3
+"Desimone, Carl ",1,Production Technician I,M ,Married,White,Production       ,Professional Society,,5
+"Billis, Helen",4,Production Technician I,F,Married,White,Production       ,Professional Society,,3
+"Johnston, Yen",4,Production Technician II,F,Single,White,Production       ,Professional Society,,3
+"Faller, Megan ",3,Production Technician II,F,Married,Black or African American,Production       ,Professional Society,,4
+"Good, Susan",3,Production Technician II,F,Married,White,Production       ,Professional Society,,5
+"O'hare, Lynn",1,Production Technician I,F,Single,Two or more races,Production       ,Professional Society,,3
+"Trang, Mei",2,Production Technician I,F,Single,White,Production       ,Professional Society,,5
+"Dougall, Eric",4,IT Manager - Support,M ,Single,White,IT/IS,Professional Society,,5
+"Butler, Webster  L",4,Production Manager,M ,Single,White,Production       ,Pay Per Click - Google,,5
+"Rogers, Ivan",3,Data Analyst,M ,Married,White,IT/IS,Pay Per Click - Google,,3
+"Howard, Estelle",3,Administrative Assistant,F,Married,White,Admin Offices,Pay Per Click - Google,,4
+"Givens, Myriam",3,Area Sales Manager,F,Single,White,Sales,Pay Per Click - Google,,4
+"Smith, Joe",4,Production Technician II,M ,Single,White,Production       ,Pay Per Click - Google,,3
+"Digitale, Alfred",3,Area Sales Manager,M ,Married,American Indian or Alaska Native,Sales,Pay Per Click - Google,,5
+"Erilus, Angela",1,Production Technician II,F,Separated,White,Production       ,Pay Per Click - Google,,3
+"Dickinson, Geoff ",3,Production Technician I,M ,Single,White,Production       ,Pay Per Click - Google,,4
+"Daneault, Lynn",3,Sales Manager,F,Single,White,Sales,Pay Per Click - Google,,4
+"Carabbio, Judith",3,Software Engineer,F,Single,White,Software Engineering,Pay Per Click - Google,,5
+"Onque, Jasmine",3,Area Sales Manager,F,Single,White,Sales,Pay Per Click - Google,,5
+"Semizoglou, Jeremiah  ",3,Sr. Network Engineer,M ,Married,Asian,IT/IS,On-campus Recruiting,,3
+"Zima, Colleen",3,Production Technician I,F,Widowed,Asian,Production       ,On-campus Recruiting,,3
+"Sander, Kamrin",3,Production Technician I,F,Married,Black or African American,Production       ,On-campus Recruiting,,3
+"Newman, Richard ",3,Production Technician I,M ,Married,White,Production       ,On-campus Recruiting,,5
+"Stoica, Rick",3,Production Technician I,M ,Married,Asian,Production       ,On-campus Recruiting,,4
+"Knapp, Bradley  J",3,Production Technician I,M ,Single,Black or African American,Production       ,On-campus Recruiting,,5
+"Jhaveri, Sneha  ",3,Production Technician I,F,Separated,White,Production       ,On-campus Recruiting,,5
+"Mangal, Debbie",3,Production Technician I,F,Married,White,Production       ,On-campus Recruiting,,4
+"Crimmings,   Jean",3,Production Technician I,F,Single,White,Production       ,Newspager/Magazine,,3
+"Von Massenbach, Anna",3,Production Technician I,F,Single,White,Production       ,Newspager/Magazine,,5
+"McCarthy, Brigit",3,Production Technician II,F,Single,White,Production       ,Newspager/Magazine,,3
+"Wolk, Hang  T",3,Production Technician II,F,Single,White,Production       ,Newspager/Magazine,,4
+"Fancett, Nicole",3,Production Technician II,F,Single,Black or African American,Production       ,Newspager/Magazine,,4
+"Mahoney, Lauren  ",3,Production Technician I,F,Single,White,Production       ,Newspager/Magazine,,3
+"Hankard, Earnest",3,Production Technician II,M ,Single,White,Production       ,Newspager/Magazine,,5
+"LeBlanc, Brandon  R",3,Shared Services Manager,M ,Married,White,Admin Offices,Monster.com,,5
+"Medeiros, Jennifer",3,Production Technician I,F,Single,White,Production       ,Monster.com,,4
+"Morway, Tanya",3,Network Engineer,F,Married,White,IT/IS,Monster.com,,4
+"Tredinnick, Neville ",3,Network Engineer,M ,Married,White,IT/IS,Monster.com,,3
+"Terry, Sharlene ",3,Area Sales Manager,F,Single,Black or African American,Sales,Monster.com,,3
+"Gill, Whitney  ",3,Area Sales Manager,F,Widowed,Black or African American,Sales,Monster.com,,3
+"Gonzales, Ricardo",3,Area Sales Manager,M ,Married,White,Sales,Monster.com,,3
+"Harrison, Kara",4,Production Technician I,F,Married,White,Production       ,Monster.com,,4
+"Engdahl, Jean",3,Production Technician I,M ,Single,White,Production       ,MBTA ads,,3
+"Szabo, Andrew",4,Software Engineer,M ,Single,White,Software Engineering,MBTA ads,,3
+"Houlihan, Debra",3,Director of Sales,F,Married,White,Sales,MBTA ads,,3
+"Carey, Michael  ",3,Production Technician I,M ,Single,Black or African American,Production       ,MBTA ads,,3
+"Owad, Clinton",2,Production Technician I,M ,Single,Black or African American,Production       ,MBTA ads,,4
+"Westinghouse, Matthew",3,BI Developer,M ,Married,White,IT/IS,Indeed,,3
+"Hubert, Robert",3,BI Developer,M ,Married,Black or African American,IT/IS,Indeed,,5
+"Smith, Jason",3,BI Developer,M ,Single,White,IT/IS,Indeed,,5
+"Wang, Charlie",3,Senior BI Developer,M ,Single,Asian,IT/IS,Indeed,,2
+"Navathe, Kurt",3,Senior BI Developer,M ,Single,Asian,IT/IS,Indeed,,4
+"Roper, Katie",3,Data Architect,F,Single,Black or African American,IT/IS,Indeed,,3
+"Rachael, Maggie",3,BI Developer,F,Married,Black or African American,IT/IS,Indeed,,5
+"Le, Binh",3,Senior BI Developer,F,Single,Asian,IT/IS,Indeed,,3
+"Horton, Jayne",3,Database Administrator,F,Single,White,IT/IS,Glassdoor,,4
+"Goble, Taisha",3,Database Administrator,F,Single,White,IT/IS,Glassdoor,,2
+"Johnson, Noelle ",3,Database Administrator,F,Married,Asian,IT/IS,Glassdoor,,5
+"Bacong, Alejandro ",3,IT Support,M ,Divorced,White,IT/IS,Glassdoor,,4
+"Nowlan, Kristie",3,Production Technician II,F,Single,White,Production       ,Glassdoor,,4
+"Gold, Shenice  ",3,Production Technician I,F,Single,White,Production       ,Glassdoor,,4
+"Beak, Kimberly  ",4,Production Technician II,F,Married,White,Production       ,Employee Referral,,4
+"Clukey, Elijian",4,Production Technician I,M ,Married,White,Production       ,Employee Referral,,3
+"Gray, Elijiah  ",3,Production Manager,M ,Divorced,White,Production       ,Employee Referral,,4
+"Zhou, Julia",3,Data Analyst,F,Single,White,IT/IS,Employee Referral,,3
+"Turpin, Jumil",3,Network Engineer,M ,Married,White,IT/IS,Employee Referral,,4
+"Garcia, Raul",3,Production Technician I,M ,Single,White,Production       ,Employee Referral,,4
+"Warfield, Sarah",3,Sr. Network Engineer,F,Widowed,Asian,IT/IS,Employee Referral,,3
+"Hernandez, Daniff",3,Database Administrator,M ,Married,Black or African American,IT/IS,Employee Referral,,3
+"Roby, Lori ",3,Data Analyst,F,Married,White,IT/IS,Employee Referral,,3
+"Simard, Kramer",3,Data Analyst,M ,Married,White,IT/IS,Employee Referral,,4
+"Dolan, Linda",3,IT Support,F,Married,White,IT/IS,Employee Referral,,4
+"Gonzalez, Maria",3,IT Support,F,Separated,White,IT/IS,Employee Referral,,5
+"Pearson, Randall",3,Data Analyst,M ,Married,White,IT/IS,Employee Referral,,4
+"Petrowsky, Thelma",4,Data Analyst,F,Married,Asian,IT/IS,Employee Referral,,3
+"Lajiri,  Jyoti",3,Sr. Network Engineer,M ,Married,White,IT/IS,Employee Referral,,3
+"South, Joe",3,Sr. Network Engineer,M ,Single,White,IT/IS,Employee Referral,,3
+"Buck, Edward",3,Area Sales Manager,M ,Married,White,Sales,Employee Referral,,3
+"Walker, Roger",3,Production Technician II,M ,Single,Black or African American,Production       ,Employee Referral,,3
+"England, Rex",3,Production Technician I,M ,Married,White,Production       ,Employee Referral,,5
+"Punjabhi, Louis  ",3,Production Technician I,M ,Single,White,Production       ,Employee Referral,,2
+"Smith, Sade",3,Production Technician I,F,Single,White,Production       ,Employee Referral,,5
+"Saar-Beckles, Melinda",2,Production Technician I,F,Single,Black or African American,Production       ,Diversity Job Fair,,2
+"Boutwell, Bonalyn",3,Sr. Accountant,F,Married,Asian,Admin Offices,Diversity Job Fair,,4
+"Murray, Thomas",4,Data Analyst,M ,Divorced,Black or African American,IT/IS,Diversity Job Fair,,4
+"Smith, John",2,Sales Manager,M ,Divorced,Black or African American,Sales,Diversity Job Fair,,5
+"Bugali, Josephine ",3,Production Technician I,F,Separated,Black or African American,Production       ,Diversity Job Fair,,5
+"Ait Sidi, Karthikeyan   ",3,Sr. DBA,M ,Married,White,IT/IS,Company Intranet - Partner,,3
